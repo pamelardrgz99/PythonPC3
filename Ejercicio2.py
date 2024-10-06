@@ -18,4 +18,4 @@ while True:
         break
 
     except ValueError:
-        print("Error: Por favor, ingrese solo números válidos separados por comas.")
+        print("Los valores introducidos no pueden ser convertidos a calificaciones")
